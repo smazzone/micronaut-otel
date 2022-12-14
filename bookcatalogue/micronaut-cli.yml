@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: example.micronaut
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, jackson-databind, java-application, junit, logback, management, maven, netty-server, readme, shade, spring-boot-java, tracing-opentelemetry-annotations, tracing-opentelemetry-exporter-jaeger, tracing-opentelemetry-http, tracing-opentelemetry-jaeger, yaml]

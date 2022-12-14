@@ -1,0 +1,14 @@
+micronaut:
+  application:
+    name: bookcatalogue
+endpoints:
+  health:
+    enabled: true
+    sensitive: false
+#tag::jaeger[]
+otel:
+  traces:
+    # exporter: jaeger
+    exporter: otlp
+    propagator: tracecontext, baggage
+#end::jaeger[]

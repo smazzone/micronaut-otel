@@ -1,0 +1,8 @@
+/Users/stefano.mazzone/dev/micronaut-microservices-distributed-tracing-jaeger-opentelemetry-maven-java/bookrecommendation/src/main/java/example/micronaut/BookCatalogueClient.java
+/Users/stefano.mazzone/dev/micronaut-microservices-distributed-tracing-jaeger-opentelemetry-maven-java/bookrecommendation/src/main/java/example/micronaut/Application.java
+/Users/stefano.mazzone/dev/micronaut-microservices-distributed-tracing-jaeger-opentelemetry-maven-java/bookrecommendation/src/main/java/example/micronaut/BookController.java
+/Users/stefano.mazzone/dev/micronaut-microservices-distributed-tracing-jaeger-opentelemetry-maven-java/bookrecommendation/src/main/java/example/micronaut/BookRecommendation.java
+/Users/stefano.mazzone/dev/micronaut-microservices-distributed-tracing-jaeger-opentelemetry-maven-java/bookrecommendation/src/main/java/example/micronaut/BookInventoryOperations.java
+/Users/stefano.mazzone/dev/micronaut-microservices-distributed-tracing-jaeger-opentelemetry-maven-java/bookrecommendation/src/main/java/example/micronaut/Book.java
+/Users/stefano.mazzone/dev/micronaut-microservices-distributed-tracing-jaeger-opentelemetry-maven-java/bookrecommendation/src/main/java/example/micronaut/BookCatalogueOperations.java
+/Users/stefano.mazzone/dev/micronaut-microservices-distributed-tracing-jaeger-opentelemetry-maven-java/bookrecommendation/src/main/java/example/micronaut/BookInventoryClient.java

@@ -1,0 +1,13 @@
+{
+  "resources" : [ {
+    "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.$BooksController$Definition$Reference\\E"
+  }, {
+    "pattern" : "\\Qlogback.xml\\E"
+  }, {
+    "pattern" : "\\Qapplication-dev.yml\\E"
+  }, {
+    "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/example.micronaut.$Book$IntrospectionRef\\E"
+  }, {
+    "pattern" : "\\Qapplication.yml\\E"
+  } ]
+}

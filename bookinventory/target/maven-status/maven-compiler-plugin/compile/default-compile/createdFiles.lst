@@ -1,0 +1,14 @@
+META-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.$BooksController$Definition$Reference
+example/micronaut/$BooksController$Definition$Intercepted$Definition.class
+example/micronaut/Application.class
+example/micronaut/$BookInventory$IntrospectionRef.class
+example/micronaut/$BooksController$Definition$Reference.class
+example/micronaut/BookInventory.class
+META-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/example.micronaut.$BookInventory$IntrospectionRef
+example/micronaut/$BooksController$Definition.class
+META-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.$BooksController$Definition$Intercepted$Definition$Reference
+example/micronaut/$BooksController$Definition$Intercepted.class
+example/micronaut/$BooksController$Definition$Intercepted$Definition$Reference.class
+example/micronaut/$BookInventory$Introspection.class
+example/micronaut/BooksController.class
+example/micronaut/$BooksController$Definition$Exec.class

@@ -1,0 +1,15 @@
+{
+  "resources" : [ {
+    "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.$BooksController$Definition$Reference\\E"
+  }, {
+    "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/example.micronaut.$BookInventory$IntrospectionRef\\E"
+  }, {
+    "pattern" : "\\Qlogback.xml\\E"
+  }, {
+    "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.$BooksController$Definition$Intercepted$Definition$Reference\\E"
+  }, {
+    "pattern" : "\\Qapplication-dev.yml\\E"
+  }, {
+    "pattern" : "\\Qapplication.yml\\E"
+  } ]
+}
